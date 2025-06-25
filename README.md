@@ -10,8 +10,6 @@ Le fichier **train_and_test** permet de charger les ordres pour les coefficients
 
 
 
-Ines Besbes
-Sara Rool
-5ModIA
+Ines Besbes, Sara Rool, 5ModIA
 
 Team : Les Marseillaises 
